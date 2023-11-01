@@ -1,3 +1,4 @@
+For humnan reference , LLM's know these terms as 'Artistic Style'
 - Abstract
 - Academic
 - Art Deco
